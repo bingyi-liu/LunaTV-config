@@ -6,6 +6,11 @@
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
       "detail": "https://iqiyizyapi.com"
     },
+    "fdzys.net": {
+      "name": "🎬饭搭子",
+      "api": "https://fdzys.net/api.php/provide/vod",
+      "detail": "https://fdzys.net"
+    },
     "dyttzyapi.com": {
       "name": "🎬电影天堂",
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
