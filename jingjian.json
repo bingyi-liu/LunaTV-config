@@ -21,16 +21,6 @@
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
       "detail": "https://www.hongniuzy.com"
     },
-    "mdzyapi.com": {
-      "name": "🎬魔都动漫",
-      "api": "https://www.mdzyapi.com/api.php/provide/vod/at/json",
-      "detail": "https://www.mdzyapi.com"
-    },
-    "apiyhzy.com": {
-      "name": "🎬樱花动漫",
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/json",
-      "detail": "https://www.apiyhzy.com"
-    },
     "ffzyapi.com": {
       "name": "🎬非凡资源",
       "api": "https://api.ffzyapi.com/api.php/provide/vod",
@@ -41,20 +31,10 @@
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
       "detail": "https://xinlangapi.com"
     },
-    "suonizy.com": {
-      "name": "🎬索尼资源",
-      "api": "https://suonizy.com/api.php/provide/vod/from/snm3u8/at/json",
-      "detail": "https://suonizy.com"
-    },
     "360zy.com": {
       "name": "🎬360 资源",
       "api": "https://360zyzz.com/api.php/provide/vod",
       "detail": "https://360zy.com"
-    },
-    "jszyapi.com": {
-      "name": "🎬极速资源",
-      "api": "https://jszyapi.com/api.php/provide/vod",
-      "detail": "https://jszyapi.com"
     },
     "bfzy.tv": {
       "name": "🎬暴风资源",
@@ -115,6 +95,11 @@
       "name": "🎬艾旦影视",
       "api": "https://pz.v88.qzz.io/?url=https://lovedan.net/api.php/provide/vod",
       "detail": "https://lovedan.net"
+    },
+    "mdzyapi.com": {
+      "name": "🎬魔都动漫",
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/at/json",
+      "detail": "https://www.mdzyapi.com"
     },
     "91md.me": {
       "name": "🔞麻豆视频",
